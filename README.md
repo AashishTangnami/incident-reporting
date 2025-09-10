@@ -71,11 +71,7 @@ The system allows users to report incidents happening in their area, optionally 
 
 5. **Security**
    - Admin authentication and role-based access.  
-   - Only authorized admins can update incident statuses or dispatch units.  
-
----
-
-## 📁 Project Structure (Suggested)
+   - Only authorized admins can update incident statuses or dispatch units.
 
 
 
