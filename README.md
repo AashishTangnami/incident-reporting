@@ -22,7 +22,7 @@ This project was created using `bun init` in bun v1.2.18. [Bun](https://bun.sh) 
 
 # Incident Reporting & Monitoring System (MVP)
 
-This is a **Minimum Viable Product (MVP)** for a mobile-first incident reporting and monitoring system.  
+This is a mobile-first incident reporting and monitoring system.  
 The system allows users to report incidents happening in their area, optionally attach media, and track the status of their reports. Admins can monitor incidents on a web dashboard, manage dispatch, and notify users when issues are resolved.
 
 ---
